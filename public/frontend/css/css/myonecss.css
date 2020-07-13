@@ -1,0 +1,16 @@
+.card {
+    width: 18rem;
+}
+
+.grid-container {
+    display: grid;
+    margin: auto;
+    grid-template-columns: auto auto;
+    /* The grid-template-columns property specifies the number (and the widths) of columns in a grid layout. */
+}
+
+img {
+    width: 50%;
+    height: auto;
+    padding: 0px;
+}
